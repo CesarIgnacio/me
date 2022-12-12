@@ -1,10 +1,10 @@
 ## - César Ignacio Pérez De la Rosa -
 
-cesarignac@gmail.com | [LinkedIn] | [GitHub] | Brooklyn, NY
+cesarignac@gmail.com [LinkedIn] [GitHub] Brooklyn, NY
 
 Software Developer
 
-Summary: Highly dedicated professional with extensive educational experience. Very strong verbal and written communication skills.
+Highly dedicated professional with extensive educational experience. Very strong verbal and written communication skills.
 
 ## Skills
 
