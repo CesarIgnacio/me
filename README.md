@@ -1,6 +1,6 @@
 ## - César Ignacio Pérez De la Rosa -
 
-(575) 520-5847 ǀ cesarignac@gmail.com ǀ 675 Vanderbilt Ave. 1D Brooklyn, NY 11238
+(575) 520-5847 ǀ cesarignac@gmail.com ǀ Brooklyn, NY
 
 Software Developer
 
@@ -8,18 +8,18 @@ Summary: Highly dedicated professional with extensive educational experience in 
 
 ## Skills
 
-Java ǀ HTML ǀ CSS ǀ SQLite ǀ PostgreSQL ǀ C++ ǀ Git ǀ Node.js
+Java ǀ JavaScript ǀ HTML ǀ CSS ǀ SQLite ǀ PostgreSQL ǀ C++ ǀ Git ǀ Node.js
 
-Linux Terminal ǀ GitHub ǀ JavaScript ǀ Express.JS ǀ Visual Studio Code
+Linux Terminal ǀ GitHub ǀ Express.JS ǀ Figma | Spanish | Portuguese
 
-Software Development ǀ Maintenance & Testing ǀ Reporting & Documentation ǀ Information Technology
+Debugging ǀ Maintenance & Testing ǀ Reporting & Documentation ǀ Information Technology
 
 ## Relevant Coursework
 
-- Data Structure: Sequences: Vectors, Linked Lists, Stacks, Queues, Deques, Lists. Associative structures: Sets, Maps & their Hash & Tree underlying representations. Sorting & searching techniques.
-- Human-Computer Interaction: User-Centered Design, Personas & Scenarios, Storyboarding & Prototyping, Interface Design, Wireframes & Mock-Ups (used Figma software).
+- Data Structure: Sequences, Associative structures, Sorting & Searching techniques.
+- Human-Computer Interaction: User-Centered Design, Personas & Scenarios, Storyboarding & Prototyping, Interface Design, Wireframes & Mock-Ups.
 
-Classes for Fall 2022 semester: Algorithms, C++, Webb Applications, Database, Operating Systems
+Classes for Fall 2022 semester: Algorithms, Web Applications, Database, Operating Systems
 
 ## Work Experience & Projects
 
