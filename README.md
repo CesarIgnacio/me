@@ -1,6 +1,6 @@
 ## - César Ignacio Pérez De la Rosa -
 
-cesarignac@gmail.com | (LinkedIn)[www.linkedin.com/in/cipr] | (GitHub)[https://github.com/CesarIgnacio] | Brooklyn, NY
+cesarignac@gmail.com | [LinkedIn](www.linkedin.com/in/cipr) | [GitHub](https://github.com/CesarIgnacio) | Brooklyn, NY
 
 Software Developer
 
