@@ -4,7 +4,7 @@ cesarignac@gmail.com | [LinkedIn](https://www.linkedin.com/in/cipr) | [GitHub](h
 
 Software Developer
 
-Summary: Highly dedicated professional with extensive educational experience in computer science and software development. Self-starter and bilingual in English and Spanish, with conversational Portuguese. Hard worker looking and highly motivated to supplement education with real-world growth opportunities. Very strong verbal and written communication skills.
+Summary: Highly dedicated professional with extensive educational experience. Very strong verbal and written communication skills.
 
 ## Skills
 
