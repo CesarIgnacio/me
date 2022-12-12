@@ -1,6 +1,6 @@
 ## - César Ignacio Pérez De la Rosa -
 
-cesarignac@gmail.com [LinkedIn] [GitHub] Brooklyn, NY
+cesarignac@gmail.com - [LinkedIn] - [GitHub] - Brooklyn, NY
 
 Software Developer
 
