@@ -10,29 +10,29 @@ Summary: Highly dedicated professional with extensive educational experience in 
 
 `Java` | `JavaScript` | `HTML` | `CSS` | `SQLite` | `PostgreSQL` | `C++` | `Git` | `Node.js`
 
-Linux Terminal | GitHub | Express.JS | Figma | Spanish | Portuguese
+`Linux Terminal` | `GitHub` | `Express.JS` | `Figma` | `Spanish` | `Portuguese`
 
-Debugging | Maintenance & Testing | Reporting & Documentation | Information Technology
+`Debugging` | `Maintenance & Testing` | `Reporting & Documentation` | `Information Technology`
 
 ## Relevant Coursework
 
-- Data Structure: Sequences, Associative structures, Sorting & Searching techniques.
-- Human-Computer Interaction: User-Centered Design, Personas & Scenarios, Storyboarding & Prototyping, Interface Design, Wireframes & Mock-Ups.
+- Data Structure: _Sequences, Associative structures, Sorting & Searching techniques._
+- Human-Computer Interaction: _User-Centered Design, Personas & Scenarios, Storyboarding & Prototyping, Interface Design, Wireframes & Mock-Ups._
 
-Classes for Fall 2022 semester: Algorithms, Web Applications, Database, Operating Systems
+Classes for Fall 2022 semester: _Algorithms, Web Applications, Database, Operating Systems_
 
 ## Work Experience & Projects
 
 ### Class Group Project: Squirrel-Database Fall 2022
 
-Technologies Used: PostgreSQL, Node.JS, Express.JS, HTML, CSS, JavaScript
+Technologies Used: `PostgreSQL`, `Node.JS`, `Express.JS`, `HTML`, `CSS`, `JavaScript`
 
 - Created a Database using PostgreSQL, use Node.JS and Express.JS to create CRUD elements
 - Implemented a user interface to interact with the database.
 
 ### Class Group Project: Email-Spam Database Spring 2022
 
-Technologies Used: HTML, CSS, JavaScript, Svelte, Figma
+Technologies Used: `HTML`, `CSS`, `JavaScript`, `Svelte`, `Figma`
 · Designed and implemented the website. Tested and fixed issues.
 · Created wireframes and mock-ups. Identified possible users.
 
