@@ -1,6 +1,6 @@
 ## - César Ignacio Pérez De la Rosa -
 
-cesarignac@gmail.com | (LinkedIn)[www.linkedin.com/in/cipr] ǀ (GitHub)[https://github.com/CesarIgnacio] | Brooklyn, NY
+cesarignac@gmail.com | (LinkedIn)[www.linkedin.com/in/cipr] | (GitHub)[https://github.com/CesarIgnacio] | Brooklyn, NY
 
 Software Developer
 
@@ -8,11 +8,11 @@ Summary: Highly dedicated professional with extensive educational experience in 
 
 ## Skills
 
-Java ǀ JavaScript ǀ HTML ǀ CSS ǀ SQLite ǀ PostgreSQL ǀ C++ ǀ Git ǀ Node.js
+Java | JavaScript | HTML | CSS | SQLite | PostgreSQL | C++ | Git | Node.js
 
-Linux Terminal ǀ GitHub ǀ Express.JS ǀ Figma | Spanish | Portuguese
+Linux Terminal | GitHub | Express.JS | Figma | Spanish | Portuguese
 
-Debugging ǀ Maintenance & Testing ǀ Reporting & Documentation ǀ Information Technology
+Debugging | Maintenance & Testing | Reporting & Documentation | Information Technology
 
 ## Relevant Coursework
 
