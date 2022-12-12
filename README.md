@@ -10,7 +10,7 @@ Summary: Highly dedicated professional with extensive educational experience. Ve
 
 `Java` `JavaScript` `HTML` `CSS` `SQLite` `PostgreSQL` `C++` `Git` `Node.js`
 
-`Linux Terminal` `GitHub` `Express.JS` `Figma` `Markup Language` `Spanish` `Portuguese`
+`Linux Terminal` `GitHub` `Express.JS` `Figma` `Markdown` `Spanish` `Portuguese`
 
 `Debugging` `Maintenance & Testing` `Reporting & Documentation` `Information Technology`
 
