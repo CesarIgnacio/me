@@ -51,7 +51,7 @@ Technologies Used: `HTML` `CSS` `JavaScript` `Svelte` `Figma`
 
 ### Freelance Tour Specialist, Discover Havana, Havana, Cuba 2017 to 2019
 
-- Owned and operated tour guide business, giving 2 to 4 tours a day ranging from one hour to full day for up to 20 people. Found clients and subcontractors, drew up contracts and planned all aspects of multi-city excursions.
+- Owned and operated tour guide business, giving 2 to 4 tour a day ranging from one hour to full day for up to 20 people. Found clients and subcontractors, drew up contracts and planned all aspects of multi-city excursions.
 
 ## Education
 
