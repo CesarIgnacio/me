@@ -1,6 +1,6 @@
 ## - César Ignacio Pérez De la Rosa -
 
-(575) 520-5847 ǀ cesarignac@gmail.com ǀ 675 Vanderbilt Ave. 1D Brooklyn, NY 11238
+(575) 520-5847 ǀ cesarignac@gmail.com ǀ Brooklyn, NY
 
 Software Developer
 
