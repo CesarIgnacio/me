@@ -1,6 +1,6 @@
 ## - César Ignacio Pérez De la Rosa -
 
-(575) 520-5847 ǀ cesarignac@gmail.com ǀ Brooklyn, NY
+cesarignac@gmail.com | (LinkedIn)[www.linkedin.com/in/cipr] ǀ (GitHub)[https://github.com/CesarIgnacio] | Brooklyn, NY
 
 Software Developer
 
