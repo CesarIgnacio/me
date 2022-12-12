@@ -8,7 +8,7 @@ Summary: Highly dedicated professional with extensive educational experience in 
 
 ## Skills
 
-Java | JavaScript | HTML | CSS | SQLite | PostgreSQL | C++ | Git | Node.js
+`Java` | `JavaScript` | `HTML` | `CSS` | `SQLite` | `PostgreSQL` | `C++` | `Git` | `Node.js`
 
 Linux Terminal | GitHub | Express.JS | Figma | Spanish | Portuguese
 
