@@ -1,6 +1,6 @@
 ## - César Ignacio Pérez De la Rosa -
 
-cesarignac@gmail.com | [LinkedIn](https://www.linkedin.com/in/cipr) | [GitHub](https://github.com/CesarIgnacio) | Brooklyn, NY
+cesarignac@gmail.com | [LinkedIn] | [GitHub] | Brooklyn, NY
 
 Software Developer
 
@@ -10,7 +10,7 @@ Summary: Highly dedicated professional with extensive educational experience. Ve
 
 `Java` `JavaScript` `HTML` `CSS` `SQLite` `PostgreSQL` `C++` `Git` `Node.js`
 
-`Linux Terminal` `GitHub` `Express.JS` `Figma` `Spanish` `Portuguese`
+`Linux Terminal` `GitHub` `Express.JS` `Figma` `Markup Language` `Spanish` `Portuguese`
 
 `Debugging` `Maintenance & Testing` `Reporting & Documentation` `Information Technology`
 
@@ -25,14 +25,14 @@ Classes for Fall 2022 semester: _Algorithms, Web Applications, Database, Operati
 
 ### Class Group Project: Squirrel-Database Fall 2022
 
-Technologies Used: `PostgreSQL`, `Node.JS`, `Express.JS`, `HTML`, `CSS`, `JavaScript`
+Technologies Used: `PostgreSQL` `Node.JS` `Express.JS` `HTML` `CSS` `JavaScript`
 
 - Created a Database using PostgreSQL, use Node.JS and Express.JS to create CRUD elements
 - Implemented a user interface to interact with the database.
 
 ### Class Group Project: Email-Spam Database Spring 2022
 
-Technologies Used: `HTML`, `CSS`, `JavaScript`, `Svelte`, `Figma`
+Technologies Used: `HTML` `CSS` `JavaScript` `Svelte` `Figma`
 
 - Designed and implemented the website. Tested and fixed issues.
 - Created wireframes and mock-ups. Identified possible users.
@@ -58,3 +58,8 @@ Technologies Used: `HTML`, `CSS`, `JavaScript`, `Svelte`, `Figma`
 BS in Computer Science, CUNY Brooklyn College, Brooklyn, NY – anticipated graduation May 2023
 
 Transferred from New Mexico State University/Doña Ana Community College in Las Cruces, NM
+
+[//]:
+
+    [LinkedIn]: <https://www.linkedin.com/in/cipr>
+    [GitHub]: <https://github.com/CesarIgnacio>
