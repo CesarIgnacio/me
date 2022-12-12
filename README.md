@@ -59,7 +59,5 @@ BS in Computer Science, CUNY Brooklyn College, Brooklyn, NY – anticipated grad
 
 Transferred from New Mexico State University/Doña Ana Community College in Las Cruces, NM
 
-[//]:
-
-    [LinkedIn]: <https://www.linkedin.com/in/cipr>
-    [GitHub]: <https://github.com/CesarIgnacio>
+[linkedin]: https://www.linkedin.com/in/cipr
+[github]: https://github.com/CesarIgnacio
