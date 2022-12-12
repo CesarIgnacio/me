@@ -8,11 +8,11 @@ Summary: Highly dedicated professional with extensive educational experience. Ve
 
 ## Skills
 
-`Java` | `JavaScript` | `HTML` | `CSS` | `SQLite` | `PostgreSQL` | `C++` | `Git` | `Node.js`
+`Java` `JavaScript` `HTML` `CSS` `SQLite` `PostgreSQL` `C++` `Git` `Node.js`
 
-`Linux Terminal` | `GitHub` | `Express.JS` | `Figma` | `Spanish` | `Portuguese`
+`Linux Terminal` `GitHub` `Express.JS` `Figma` `Spanish` `Portuguese`
 
-`Debugging` | `Maintenance & Testing` | `Reporting & Documentation` | `Information Technology`
+`Debugging` `Maintenance & Testing` `Reporting & Documentation` `Information Technology`
 
 ## Relevant Coursework
 
