@@ -1,8 +1,8 @@
 ## - César Ignacio Pérez De la Rosa -
 
-cesarignac@gmail.com - [LinkedIn] - [GitHub] - Brooklyn, NY
+cesarignac@gmail.com - [LinkedIn] - [GitHub] - Brooklyn, NY 11238
 
-Software Developer
+**Software Developer**
 
 Highly dedicated professional with extensive educational experience. Very strong verbal and written communication skills.
 
@@ -20,6 +20,10 @@ Highly dedicated professional with extensive educational experience. Very strong
 - Human-Computer Interaction: _User-Centered Design, Personas & Scenarios, Storyboarding & Prototyping, Interface Design, Wireframes & Mock-Ups._
 
 Classes for Fall 2022 semester: _Algorithms, Web Applications, Database, Operating Systems_
+
+**Portfolio**
+
+- (Calculator)[https://cesarignacio.github.io/calculator]
 
 ## Work Experience & Projects
 
