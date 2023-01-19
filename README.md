@@ -1,4 +1,4 @@
-## - César Ignacio Pérez De la Rosa -
+## - [César Ignacio Pérez De la Rosa] -
 
 cesarignac@gmail.com - [LinkedIn] - [GitHub] - Brooklyn, NY 11238
 
@@ -23,7 +23,7 @@ Classes for Fall 2022 semester: _Algorithms, Web Applications, Database, Operati
 
 **Portfolio**
 
-- (Calculator)[https://cesarignacio.github.io/calculator]
+- [Calculator]
 
 ## Work Experience & Projects
 
@@ -65,3 +65,5 @@ Transferred from New Mexico State University/Doña Ana Community College in Las 
 
 [linkedin]: https://www.linkedin.com/in/cipr
 [github]: https://github.com/CesarIgnacio
+[calculator]: https://cesarignacio.github.io/calculator
+[césar ignacio pérez de la rosa]: https://cesarignacio.github.io/me
