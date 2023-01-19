@@ -7,7 +7,7 @@ cesarignac@gmail.com - [LinkedIn] - [GitHub] - Brooklyn, NY 11238
 Highly dedicated professional with extensive educational experience. Very strong verbal and written communication skills.
 
 **Content**
-[Skills]
+| [Skills] |
 
 ## Skills
 
@@ -70,4 +70,4 @@ Transferred from New Mexico State University/Doña Ana Community College in Las 
 [github]: https://github.com/CesarIgnacio
 [calculator]: https://cesarignacio.github.io/calculator
 [césar ignacio pérez de la rosa]: https://cesarignacio.github.io/me
-[skills]: Skills
+[skills]: https://cesarignacio.github.io/me/#skills
