@@ -8,7 +8,7 @@ Highly dedicated professional with extensive educational experience. Very strong
 
 **Content:**
 
-| [Skills] | [Relevant Coursework] | [Work Experience & Projects] | [Education] |
+[Skills] | [Relevant Coursework] | [Work Experience & Projects] | [Education]
 
 ## Skills
 
