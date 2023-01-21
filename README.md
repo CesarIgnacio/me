@@ -22,8 +22,9 @@ Highly dedicated professional with extensive educational experience. Very strong
 
 - Data Structure: _Sequences, Associative structures, Sorting & Searching techniques._
 - Human-Computer Interaction: _User-Centered Design, Personas & Scenarios, Storyboarding & Prototyping, Interface Design, Wireframes & Mock-Ups._
+-	Currently learning **React** independently.
 
-Classes for Fall 2022 semester: _Algorithms, Web Applications, Database, Operating Systems_
+Classes for Fall 2022 semester: _Programing in Python, Multimedia Programming._
 
 **Portfolio**
 
