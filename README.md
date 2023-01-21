@@ -38,7 +38,7 @@ Technologies Used: `PostgreSQL` `Node.JS` `Express.JS` `HTML` `CSS` `JavaScript`
 - Created a Database using PostgreSQL, use Node.JS and Express.JS to create CRUD elements
 - Implemented a user interface to interact with the database.
 
-### Class Group Project: Email-Spam Database Spring 2022
+### Class Group Project: [Email-Spam Database Spring 2022]
 
 Technologies Used: `HTML` `CSS` `JavaScript` `Svelte` `Figma`
 
@@ -75,3 +75,4 @@ Transferred from New Mexico State University/Doña Ana Community College in Las 
 [relevant coursework]: https://cesarignacio.github.io/me/#relevant-coursework
 [work experience & projects]: https://cesarignacio.github.io/me/#work-experience--projects
 [education]: https://cesarignacio.github.io/me/#education
+[email-spam database spring 2022]: https://mixemer.github.io/email_spam_database/
