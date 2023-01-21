@@ -26,7 +26,7 @@ Highly dedicated professional with extensive educational experience. Very strong
 
 Classes for Fall 2022 semester: _Programing in Python, Multimedia Programming._
 
-**Portfolio**
+**Work in porgress portfolio**
 [Calculator v1], [Calculator v2]
 
 ## Work Experience & Projects
