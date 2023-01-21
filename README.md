@@ -27,7 +27,7 @@ Classes for Fall 2022 semester: _Algorithms, Web Applications, Database, Operati
 
 **Portfolio**
 
-- [Calculator]
+- [Calculator v1], [Calculator v2]
 
 ## Work Experience & Projects
 
@@ -69,7 +69,8 @@ Transferred from New Mexico State University/Doña Ana Community College in Las 
 
 [linkedin]: https://www.linkedin.com/in/cipr
 [github]: https://github.com/CesarIgnacio
-[calculator]: https://cesarignacio.github.io/calculator
+[calculator v1]: https://cesarignacio.github.io/calculator
+[calculator v2]: https://cesarignacio.github.io/calculator2
 [césar ignacio pérez de la rosa]: https://cesarignacio.github.io/me
 [skills]: https://cesarignacio.github.io/me/#skills
 [relevant coursework]: https://cesarignacio.github.io/me/#relevant-coursework
