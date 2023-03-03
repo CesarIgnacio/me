@@ -1,4 +1,4 @@
-## - [César Ignacio Pérez De la Rosa] -
+## César Ignacio Pérez De la Rosa
 
 cesarignac@gmail.com - [LinkedIn] - [GitHub] - Brooklyn, NY 11238
 
@@ -71,7 +71,6 @@ Transferred from New Mexico State University/Doña Ana Community College in Las 
 [github]: https://github.com/CesarIgnacio
 [calculator v1]: https://cesarignacio.github.io/calculator
 [calculator v2]: https://cesarignacio.github.io/calculator2
-[césar ignacio pérez de la rosa]: https://cesarignacio.github.io/me
 [skills]: https://cesarignacio.github.io/me/#skills
 [relevant coursework]: https://cesarignacio.github.io/me/#relevant-coursework
 [work experience & projects]: https://cesarignacio.github.io/me/#work-experience--projects
