@@ -26,8 +26,7 @@ Highly dedicated professional with extensive educational experience. Very strong
 
 Classes for Fall 2022 semester: _Programing in Python, Multimedia Programming._
 
-**Work in porgress portfolio**
-[Calculator v1], [Calculator v2]
+[**Work in porgress portfolio**]
 
 ## Work Experience & Projects
 
@@ -69,8 +68,7 @@ Transferred from New Mexico State University/Doña Ana Community College in Las 
 
 [linkedin]: https://www.linkedin.com/in/cipr
 [github]: https://github.com/CesarIgnacio
-[calculator v1]: https://cesarignacio.github.io/calculator
-[calculator v2]: https://cesarignacio.github.io/calculator2
+[**Work in porgress portfolio**]: https://cesarignacio.github.io/Portfolio
 [skills]: https://cesarignacio.github.io/me/#skills
 [relevant coursework]: https://cesarignacio.github.io/me/#relevant-coursework
 [work experience & projects]: https://cesarignacio.github.io/me/#work-experience--projects
