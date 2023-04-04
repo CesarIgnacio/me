@@ -1,4 +1,4 @@
-## - [César Ignacio Pérez De la Rosa] -
+## César Ignacio Pérez De la Rosa
 
 cesarignac@gmail.com - [LinkedIn] - [GitHub] - Brooklyn, NY 11238
 
@@ -22,12 +22,11 @@ Highly dedicated professional with extensive educational experience. Very strong
 
 - Data Structure: _Sequences, Associative structures, Sorting & Searching techniques._
 - Human-Computer Interaction: _User-Centered Design, Personas & Scenarios, Storyboarding & Prototyping, Interface Design, Wireframes & Mock-Ups._
+- Currently learning **React** independently.
 
-Classes for Fall 2022 semester: _Algorithms, Web Applications, Database, Operating Systems_
+Classes for Fall 2022 semester: _Programing in Python, Multimedia Programming._
 
-**Portfolio**
-
-- [Calculator]
+[**Work in porgress portfolio**]
 
 ## Work Experience & Projects
 
@@ -46,7 +45,7 @@ Technologies Used: `PostgreSQL` `Node.js` `Express.js` `HTML` `CSS` `JavaScript`
 - Created a Database using PostgreSQL, use Node.JS and Express.JS to create CRUD elements
 - Implemented a user interface to interact with the database.
 
-### Class Group Project: Email-Spam Database Spring 2022
+### Class Group Project: [Email-Spam Database Spring 2022]
 
 Technologies Used: `HTML` `CSS` `JavaScript` `Svelte` `Figma`
 
@@ -85,3 +84,4 @@ Transferred from New Mexico State University/Doña Ana Community College in Las 
 [relevant coursework]: https://cesarignacio.github.io/me/#relevant-coursework
 [work experience & projects]: https://cesarignacio.github.io/me/#work-experience--projects
 [education]: https://cesarignacio.github.io/me/#education
+[email-spam database spring 2022]: https://mixemer.github.io/email_spam_database/
