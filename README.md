@@ -32,7 +32,7 @@ Classes for Fall 2022 semester: _Programing in Python, Multimedia Programming._
 
 ### Front-End Web Developer: [BioMimetic & Cognitive Robotics Lab] at Brooklyn College Spring 2023
 
-Technologies Used: `PUG` `Node.js` `Express.js`
+Technologies Used: `Pug` `Node.js` `Express.js`
 
 - Worked for [professor] designing and implementing the UI of a website collecting data from external contributors.
 - Worked closely with back-end developers to ensure seamless integration.
