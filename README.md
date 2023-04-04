@@ -85,3 +85,4 @@ Transferred from New Mexico State University/Doña Ana Community College in Las 
 [work experience & projects]: https://cesarignacio.github.io/me/#work-experience--projects
 [education]: https://cesarignacio.github.io/me/#education
 [email-spam database spring 2022]: https://mixemer.github.io/email_spam_database/
+[**work in porgress portfolio**]: https://cesarignacio.github.io/Portfolio
