@@ -24,7 +24,7 @@ Highly dedicated professional with extensive educational experience. Very strong
 - Human-Computer Interaction: _User-Centered Design, Personas & Scenarios, Storyboarding & Prototyping, Interface Design, Wireframes & Mock-Ups._
 - Currently learning **React** independently.
 
-Classes for Fall 2022 semester: _Programing in Python, Multimedia Programming._
+Classes for Spring 2023 semester: _Programing in Python, Multimedia Programming._
 
 [**Work in porgress portfolio**]
 
