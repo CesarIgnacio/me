@@ -2,50 +2,57 @@
 
 cesarignac@gmail.com - [LinkedIn] - [GitHub] - Brooklyn, NY 11238
 
-**Software Developer**
-
-Highly dedicated professional with extensive educational experience. Very strong verbal and written communication skills.
+**Software Engineer**
 
 **Content:**
 
-[Skills] | [Relevant Coursework] | [Work Experience & Projects] | [Education]
+ [Education] | [Skills] | [Relevant Coursework] | [Work Experience & Projects] 
+
+## Education
+
+BS in Computer Science, CUNY Brooklyn College, Brooklyn, NY – May 2023
+
+Transferred from New Mexico State University/Doña Ana Community College in Las Cruces, NM
 
 ## Skills
 
-`Java` `JavaScript` `HTML` `CSS` `SQLite` `PostgreSQL` `C++` `Git` `Node.js`
+`React` `Sequelize`  `Express.JS` `Java` `JavaScript` `SQLite` `PostgreSQL` `C++` `Git` `Node.js`
 
-`Linux Terminal` `GitHub` `Express.JS` `Figma` `Markdown` `Spanish` `Portuguese`
+`Linux Terminal` `GitHub` `HTML` `CSS` `Figma` `Pug` `Spanish` `Portuguese`
 
-`Debugging` `Maintenance & Testing` `Reporting & Documentation` `Information Technology`
+`Debugging` `Maintenance & Testing` `Reporting & Documentation` `Agile Methodology`
 
 ## Relevant Coursework
 
 - Data Structure: _Sequences, Associative structures, Sorting & Searching techniques._
-- Human-Computer Interaction: _User-Centered Design, Personas & Scenarios, Storyboarding & Prototyping, Interface Design, Wireframes & Mock-Ups._
-- Currently learning **React** independently.
-
-Classes for Spring 2023 semester: _Programing in Python, Multimedia Programming._
+-	Algorithms: _Analysis of algorithms. Upper & lower bounds on complexity problems. Pattern matching._
+-	Human-Computer Interaction: _User-Centered Design, Interface Design, Wireframes & Mock-Ups._
 
 [**Work in porgress portfolio**]
 
 ## Work Experience & Projects
 
-### Front-End Web Developer: [BioMimetic & Cognitive Robotics Lab] at Brooklyn College Spring 2023
+### Full Stack Web Developer: Cohesive Robotics Jun 2023 – present
 
-Technologies Used: `Pug` `Node.js` `Express.js`
+-	Created APIs to interact with database using Squelize & Express.js
+- Created user interface using React.js. Connected with the backend APIs.
+- From scratch, designed & implemented application’s workflow, UI wireframe, & DB schema.
+
+
+### Front-End Web Developer: [BioMimetic & Cognitive Robotics Lab] at Brooklyn College Jan 2023 – present
 
 - Worked for [professor] designing and implementing the UI of a website collecting data from external contributors.
 - Worked closely with back-end developers to ensure seamless integration.
 - Used `Pug` template engine for `Node.js`.
 
-### Class Group Project: Squirrel-Database Fall 2022
+### Full Stack Web Developer: Squirrel-Database Sep – Dec 2022
 
 Technologies Used: `PostgreSQL` `Node.js` `Express.js` `HTML` `CSS` `JavaScript`
 
 - Created a Database using PostgreSQL, use Node.JS and Express.JS to create CRUD elements
 - Implemented a user interface to interact with the database.
 
-### Class Group Project: [Email-Spam Database Spring 2022]
+### CFront-End Web Developer: [Email-Spam Database Spring 2022] Feb – May 2022
 
 Technologies Used: `HTML` `CSS` `JavaScript` `Svelte` `Figma`
 
@@ -68,11 +75,7 @@ Technologies Used: `HTML` `CSS` `JavaScript` `Svelte` `Figma`
 
 - Owned and operated tour guide business, giving 2 to 4 tour a day ranging from one hour to full day for up to 20 people. Found clients and subcontractors, drew up contracts and planned all aspects of multi-city excursions.
 
-## Education
 
-BS in Computer Science, CUNY Brooklyn College, Brooklyn, NY – anticipated graduation May 2023
-
-Transferred from New Mexico State University/Doña Ana Community College in Las Cruces, NM
 
 [linkedin]: https://www.linkedin.com/in/cipr
 [github]: https://github.com/CesarIgnacio
