@@ -10,9 +10,16 @@ cesarignac@gmail.com - [LinkedIn] - [GitHub] - Brooklyn, NY 11238
 
 ## Education
 
-BS in Computer Science, CUNY Brooklyn College, Brooklyn, NY – May 2023
+####- COOP Careers - Data Analytics Apprentice - June 2024
 
-Transferred from New Mexico State University/Doña Ana Community College in Las Cruces, NM
+Engaged in a 16-week apprenticeship program, acquiring expertise in data cleaning, transformation, analysis, and visualization using SQL, Python, and Tableau, alongside continuous professional development.
+200 hours of instruction time with a hands-on mastery of data tools, communication training, networking, and client work with actual companies.
+
+####- City University of New York, Brooklyn College Computer Science	- May 2023
+
+Relevant coursework: Python, R, Web Application Development, Data Structures, Databases.
+
+####- BS in Computer Science, CUNY Brooklyn College, Brooklyn, NY – May 2023
 
 ## Skills
 
