@@ -6,7 +6,7 @@ cesarignac@gmail.com - [LinkedIn] - [GitHub] - Brooklyn, NY 11238
 
 **Content:**
 
- [Education] | [Skills] | [Work Experience] |  [Projects] 
+ [Education] | [Skills] | [Work Experience] |  [Projects] | [Work in porgress portfolio]
 
 
 ## Education
@@ -30,8 +30,6 @@ Relevant coursework: Python, Web Application Development, Data Structures, Datab
 **Programming Languages & Visualization**: `React`, `Express.js`, `Node.js`, `Sequelize`, `TypeScript`, `JavaScript`, `Python`, `SQL`, `Excel (Pivot Table and Vlookup)`, `Google Sheets`, `Tableau`, `Git`, `Linux Terminal`, `GitHub`, `HTML`, `CSS`, `Figma`, `Java`, `Pug`, `C++`
 
 **Languages**: Spanish (Native), Portuguese (Fluent)
-
-[**Work in porgress portfolio**]
 
 
 ## Work Experience
