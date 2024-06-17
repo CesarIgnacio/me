@@ -78,5 +78,5 @@ Relevant coursework: Python, Web Application Development, Data Structures, Datab
 [work experience]: https://cesarignacio.github.io/me/#work-experience
 [projects]: https://cesarignacio.github.io/me/#projects
 [email-spam database spring 2022]: https://mixemer.github.io/email_spam_database/
-[**work in porgress portfolio**]: https://cesarignacio.github.io/Portfolio
+[work in porgress portfolio]: https://cesarignacio.github.io/Portfolio
 
