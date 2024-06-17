@@ -6,84 +6,79 @@ cesarignac@gmail.com - [LinkedIn] - [GitHub] - Brooklyn, NY 11238
 
 **Content:**
 
- [Education] | [Skills] | [Work Experience & Projects] 
+ [Education] | [Skills] | [Work Experience] |  [Projects] 
+
 
 ## Education
 
-#### COOP Careers - Data Analytics Apprentice - June 2024
+### COOP Careers - Data Analytics Apprentice - June 2024
 
 Engaged in a 16-week apprenticeship program, acquiring expertise in data cleaning, transformation, analysis, and visualization using SQL, Python, and Tableau, alongside continuous professional development.
 200 hours of instruction time with a hands-on mastery of data tools, communication training, networking, and client work with actual companies.
 
-#### City University of New York, Brooklyn College Computer Science	- May 2023
+### City University of New York, Brooklyn College Computer Science	- May 2023
 
 Relevant coursework: Python, Web Application Development, Data Structures, Databases.
 
-#### BS in Computer Science, CUNY Brooklyn College, Brooklyn, NY – May 2023
+### BS in Computer Science, CUNY Brooklyn College, Brooklyn, NY – May 2023
+
 
 ## Technical Skills and Certifications
 
 **Certifications**: Google Analytics Professional Certificate (Coursera) 
+
 **Programming Languages & Visualization**: `React`, `Express.js`, `Node.js`, `Sequelize`, `TypeScript`, `JavaScript`, `Python`, `SQL`, `Excel (Pivot Table and Vlookup)`, `Google Sheets`, `Tableau`, `Git`, `Linux Terminal`, `GitHub`, `HTML`, `CSS`, `Figma`, `Java`, `Pug`, `C++`
+
 **Languages**: Spanish (Native), Portuguese (Fluent)
 
 [**Work in porgress portfolio**]
 
-## Work Experience & Projects
 
-### Full Stack Web Developer: Cohesive Robotics Jun 2023 – present
+## Work Experience
 
--	Created APIs to interact with database using Squelize & Express.js
-- Created user interface using React.js. Connected with the backend APIs.
-- From scratch, designed & implemented application’s workflow, UI wireframe, & DB schema.
+### Cohesive Robotics, **Full Stack Web Developer Intern**	- Jun 2023 – Aug 2023
+
+- Created end-to-end React UI web app to control autonomous robots that polish factory-grade surfaces as part of a demo for the CEO to gain new clients.
+- Designed a 10+ table database in SQLite to store product details and surface finishes to connect to Sequelize and Express.js with RESTful APIs for end users to select and identify proper settings for service polishing. 
+- Designed UI mockup in Figma and presented to 4 company executives to show the impact of the robotic polisher for final implementation with positive feedback on the simplicity of the project itself.
+
+### BioMimetic & Cognitive Robotics Lab - Brooklyn College, **Full Stack Web Developer Intern** -	Jan 2023 – May 2023
+
+- Engineered user interface of a website aimed at gathering data on lab-studied animals from external contributors, facilitating valuable data collection for research purposes.
+- Worked in tandem with backend developers to define precise user-side data requirements for form creation, guaranteeing accurate data transfer to the server.
+- Utilized the Pug template engine and CSS to develop a multi-page user interface, enhancing user engagement and interaction with the application.
 
 
-### Front-End Web Developer: [BioMimetic & Cognitive Robotics Lab] at Brooklyn College Jan 2023 – present
+## Projects
 
-- Worked for [professor] designing and implementing the UI of a website collecting data from external contributors.
-- Worked closely with back-end developers to ensure seamless integration.
-- Used `Pug` template engine for `Node.js`.
+### Impact of COVID-19 on NYC High School Education, Tech Stack: Tableau -	March 2024
 
-### Full Stack Web Developer: Squirrel-Database Sep – Dec 2022
+- Collaborated within a team of five to analyze multiple datasets using Tableau, assessing the effects of budget cuts, attendance records, and teacher-student ratios on regent scores and inform citywide educational policy decisions.
+- Revealed through data analysis that an average teacher-student ratio of 13 and a budget of over $30.1K per student had minimal impact on the declining regent scores in New York City, providing critical insights to policymakers.
+- Delivered a well-received presentation to an audience of over 20 students and instructors, sharing data-driven insights and recommendations for enhancing regents exam scores, which was praised for its structured analysis and clarity.
 
-Technologies Used: `PostgreSQL` `Node.js` `Express.js` `HTML` `CSS` `JavaScript`
+### Squirrel Spotter, Tech Stack: PostgreSQL, Node.js, Express.js, HTML, CSS, JavaScript	- Dec 2022
 
-- Created a Database using PostgreSQL, use Node.JS and Express.JS to create CRUD elements
-- Implemented a user interface to interact with the database.
+- Developed a PostgreSQL database to efficiently categorize details of squirrel sightings, such as geo-location coordinates, identifying features, and status, enhancing data organization and accessibility.
+- Integrated CRUD functionalities with Node and Express, enabling users to intuitively create and update entries on squirrel sightings, improving user engagement and data accuracy.
+- Designed a multi-page user interface using HTML, CSS, and JavaScript, delivering an interactive experience for users to report and browse squirrel sightings.
 
-### CFront-End Web Developer: [Email-Spam Database Spring 2022] Feb – May 2022
+### Front-End Web Developer: [Email-Spam Database Spring 2022] Feb – May 2022
 
-Technologies Used: `HTML` `CSS` `JavaScript` `Svelte` `Figma`
+- Deployed a website moving through the entire development process from conception to launch.
+- Incorporated user feedback into the development process in order to make the user interaction more intuitive.
+- Designed wireframe and mockups using Figma for the website before the implementation phase.
 
-- Designed and implemented the website. Tested and fixed issues.
-- Created wireframes and mock-ups. Identified possible users.
-
-### Master Control Assistant, PBS/KRWG Las Cruces, NM 2019 to 2020
-
-- Monitored television signals for outgoing programs.
-- Cued and adjusted program schedule, and communicated with statewide stations.
-- Oversaw weekly student-run live news shows.
-
-### Senator, Debug Club, New Mexico State University/Doña Ana Community College 2019 to 2020
-
-- Ensured smooth operations of club activities and attended and ran regular meetings.
-- Organized club-wide visit to White Sands Missile Range military base in New Mexico for informative workshop regarding missile engineering and related operating system strategies.
-- Ran a shop fixing and/or replacing the software and hardware of computers.
-
-### Freelance Tour Specialist, Discover Havana, Havana, Cuba 2017 to 2019
-
-- Owned and operated tour guide business, giving 2 to 4 tour a day ranging from one hour to full day for up to 20 people. Found clients and subcontractors, drew up contracts and planned all aspects of multi-city excursions.
 
 
 
 [linkedin]: https://www.linkedin.com/in/cipr
 [github]: https://github.com/CesarIgnacio
-[calculator]: https://cesarignacio.github.io/calculator
-[biomimetic & cognitive robotics lab]: https://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/graduate/psychology/phd/research.php#:~:text=Comparative/Animal/Bio,physiology%20of%20feeding
-[professor]: http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/undergraduate/psychology/faculty_details.php?faculty=18
 [césar ignacio pérez de la rosa]: https://cesarignacio.github.io/me
-[skills]: https://cesarignacio.github.io/me/#technical-skills-and-certifications
-[work experience & projects]: https://cesarignacio.github.io/me/#work-experience--projects
 [education]: https://cesarignacio.github.io/me/#education
+[skills]: https://cesarignacio.github.io/me/#technical-skills-and-certifications
+[work experience]: https://cesarignacio.github.io/me/#work-experience
+[projects]: https://cesarignacio.github.io/me/#projects
 [email-spam database spring 2022]: https://mixemer.github.io/email_spam_database/
 [**work in porgress portfolio**]: https://cesarignacio.github.io/Portfolio
+
