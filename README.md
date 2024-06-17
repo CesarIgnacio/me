@@ -6,34 +6,26 @@ cesarignac@gmail.com - [LinkedIn] - [GitHub] - Brooklyn, NY 11238
 
 **Content:**
 
- [Education] | [Skills] | [Relevant Coursework] | [Work Experience & Projects] 
+ [Education] | [Skills] | [Work Experience & Projects] 
 
 ## Education
 
-- #### COOP Careers - Data Analytics Apprentice - June 2024
+#### COOP Careers - Data Analytics Apprentice - June 2024
 
 Engaged in a 16-week apprenticeship program, acquiring expertise in data cleaning, transformation, analysis, and visualization using SQL, Python, and Tableau, alongside continuous professional development.
 200 hours of instruction time with a hands-on mastery of data tools, communication training, networking, and client work with actual companies.
 
-- #### City University of New York, Brooklyn College Computer Science	- May 2023
+#### City University of New York, Brooklyn College Computer Science	- May 2023
 
-Relevant coursework: Python, R, Web Application Development, Data Structures, Databases.
+Relevant coursework: Python, Web Application Development, Data Structures, Databases.
 
-- #### BS in Computer Science, CUNY Brooklyn College, Brooklyn, NY – May 2023
+#### BS in Computer Science, CUNY Brooklyn College, Brooklyn, NY – May 2023
 
-## Skills
+## Technical Skills and Certifications
 
-`React` `Sequelize`  `Express.JS` `Java` `JavaScript` `SQLite` `PostgreSQL` `C++` `Git` `Node.js`
-
-`Linux Terminal` `GitHub` `HTML` `CSS` `Figma` `Pug` `Spanish` `Portuguese`
-
-`Debugging` `Maintenance & Testing` `Reporting & Documentation` `Agile Methodology`
-
-## Relevant Coursework
-
-- Data Structure: _Sequences, Associative structures, Sorting & Searching techniques._
--	Algorithms: _Analysis of algorithms. Upper & lower bounds on complexity problems. Pattern matching._
--	Human-Computer Interaction: _User-Centered Design, Interface Design, Wireframes & Mock-Ups._
+**Certifications**: Google Analytics Professional Certificate (Coursera) 
+**Programming Languages & Visualization**: `React`, `Express.js`, `Node.js`, `Sequelize`, `TypeScript`, `JavaScript`, `Python`, `SQL`, `Excel (Pivot Table and Vlookup)`, `Google Sheets`, `Tableau`, `Git`, `Linux Terminal`, `GitHub`, `HTML`, `CSS`, `Figma`, `Java`, `Pug`, `C++`
+**Languages**: Spanish (Native), Portuguese (Fluent)
 
 [**Work in porgress portfolio**]
 
@@ -90,8 +82,7 @@ Technologies Used: `HTML` `CSS` `JavaScript` `Svelte` `Figma`
 [biomimetic & cognitive robotics lab]: https://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/graduate/psychology/phd/research.php#:~:text=Comparative/Animal/Bio,physiology%20of%20feeding
 [professor]: http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/undergraduate/psychology/faculty_details.php?faculty=18
 [césar ignacio pérez de la rosa]: https://cesarignacio.github.io/me
-[skills]: https://cesarignacio.github.io/me/#skills
-[relevant coursework]: https://cesarignacio.github.io/me/#relevant-coursework
+[skills]: https://cesarignacio.github.io/me/#technical-skills-and-certifications
 [work experience & projects]: https://cesarignacio.github.io/me/#work-experience--projects
 [education]: https://cesarignacio.github.io/me/#education
 [email-spam database spring 2022]: https://mixemer.github.io/email_spam_database/
